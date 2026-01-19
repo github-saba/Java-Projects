@@ -1,4 +1,5 @@
-/* */
+/* A simple Java class that clearly demonstrates break and continue statements.
+This is easy to understand and commonly asked in interviews */
 public class BreakContinueExample {
 
     public static void main(String[] args) {

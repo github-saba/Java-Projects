@@ -1,5 +1,5 @@
 import javax.swing.*;
-import java.awt.*;
+
 public class SwingDemo1 {
     public static void main(String[] args) {
         // Always start Swing apps on the Event Dispatch Thread (EDT)

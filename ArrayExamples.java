@@ -22,6 +22,9 @@ public class ArrayExamples {
         for (int i : a) {
             System.out.println(i);
         }
+        for (int i=0; i<b.length; i++) {
+            System.out.println(b[i]);
+        }
 
         // 2. Two-Dimensional Arrays
        

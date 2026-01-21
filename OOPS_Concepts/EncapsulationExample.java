@@ -1,3 +1,5 @@
+/* A simple Java example that demonstrates encapsulation clearly and completely. */
+
 package OOPS_Concepts;
 
 public class EncapsulationExample {

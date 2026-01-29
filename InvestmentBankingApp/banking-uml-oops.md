@@ -24,7 +24,7 @@ Covered concepts:
 
 ---
 
-## UML Class Diagram (ASCII – Interview Friendly)
+## UML Class Diagram (ASCII)
 
 ```text
                <<interface>>

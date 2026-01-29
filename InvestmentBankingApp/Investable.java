@@ -1,4 +1,4 @@
-// Only method declarations (100% abstraction)
+// Interface – Mandatory Rules, Only method declarations (100% abstraction)
 public interface Investable {
 
     // public by default

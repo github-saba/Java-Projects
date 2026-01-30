@@ -1,3 +1,5 @@
+package OOPS_Concepts;
+
 /* A simple Java program that clearly covers Abstraction in OOPS 
    using both abstract class and interface (this is exactly what interviewers expect).
    What Abstraction Means: Hiding implementation details and showing only essential features.

@@ -1,4 +1,9 @@
-/* A simple and complete Java example that covers: Class, Object, Constructor, Getters & Setters, Access Modifiers (private, default, protected, public). Easy to understand and interview-ready */
+package OOPS_Concepts;
+
+/*  A simple and complete Java example that covers:
+    Class, Object, Constructor, Getters & Setters, 
+    Access Modifiers (private, default, protected, public).
+    Easy to understand and interview-ready */
 
 // Main class
 public class OOPExample {

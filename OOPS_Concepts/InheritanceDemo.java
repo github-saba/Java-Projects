@@ -1,6 +1,8 @@
+package OOPS_Concepts;
+
 /* A single, easy-to-understand Java example that demonstrates 
 Inheritance and also touches all core OOP ideas that usually come up together with it:
-IS-A relationship, method overriding, super, access modifiers, runtime polymorphism.*/
+IS-A relationship, method overriding, super, access modifiers, runtime polymorphism.
 
 Inheritance	-> Developer extends Employee
 IS-A Relationship	-> Developer IS-A Employee

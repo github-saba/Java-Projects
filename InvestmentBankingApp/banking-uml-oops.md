@@ -26,7 +26,7 @@ Covered concepts:
 
 ## UML Class Diagram (ASCII)
 
-```
+```text
                <<interface>>
                Investable
           ---------------------
@@ -61,7 +61,7 @@ Covered concepts:
               | + calculateReturns() |
               +----------------------+
 
-```text
+```
 ---
 
 # @Note1:

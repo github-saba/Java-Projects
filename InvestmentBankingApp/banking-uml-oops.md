@@ -61,7 +61,7 @@ Covered concepts:
               | + calculateReturns() |
               +----------------------+
 
-text```
+```text
 ---
 
 # @Note1:

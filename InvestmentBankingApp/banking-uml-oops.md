@@ -75,6 +75,17 @@ Covered concepts:
 - \<<interface>>  -->  interface
 - abstract  -->  abstract class
 
+|**UML Symbols Cheat Sheet:**| **Symbol	Meaning** |
+| :---:                   |    :----:       | 
+| \+                      |  public         |
+| \-                      |  private        |
+| \#                      |  protected      |
+| \`<                     |  --`            |
+| \`<                     |  ..`            |
+| \<<interface>>          |  interface      |
+| abstract                |  abstract class |
+
+
 ### @Note2:
 
 - We use an interface reference to achieve loose coupling and runtime polymorphism.

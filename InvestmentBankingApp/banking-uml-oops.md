@@ -61,21 +61,24 @@ Covered concepts:
               | + calculateReturns() |
               +----------------------+
 
+---
 
-@Note1:
+# @Note1:
 
-UML Symbols Cheat Sheet: Symbol	Meaning
-+	              ->    public
--	              ->    private
-#               ->  	protected
-`<	            ->  --`
-`<	            ->  ..`
-<<interface>>   ->	interface
-abstract	      -> abstract class
+## UML Symbols Cheat Sheet: Symbol	Meaning
+- +	              ->    public
+- -	              ->    private
+- #               ->  	protected
+- `<	            ->  --`
+- `<	            ->  ..`
+- <<interface>>   ->	interface
+- abstract	      -> abstract class
 
-@Note2:
+# @Note2:
 
 “We use an interface reference to achieve loose coupling and runtime polymorphism.
 The object is a FixedDepositAccount, but it’s referenced as Investable.
 Since calculateReturns() is not part of the interface, we cast it to BankAccount.
 At runtime, Java still calls the overridden method of FixedDepositAccount.”
+
+---

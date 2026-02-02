@@ -26,7 +26,7 @@ Covered concepts:
 
 ## UML Class Diagram (ASCII)
 
-```text
+```
                <<interface>>
                Investable
           ---------------------

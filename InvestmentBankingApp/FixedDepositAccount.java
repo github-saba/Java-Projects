@@ -1,4 +1,4 @@
-// Concrete Class – Fixed Deposit Account, Uses inheritance + interface + polymorphism
+/* Concrete Class – Fixed Deposit Account, Uses inheritance + interface + polymorphism */
 public class FixedDepositAccount extends BankAccount implements Investable {
 
     private double interestRate = 6.5;

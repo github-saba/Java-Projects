@@ -66,15 +66,6 @@ Covered concepts:
 
 ### @Note1:
 
-#### UML Symbols Cheat Sheet: Symbol	Meaning
-- \+  -->  public
-- \-  -->  private
-- \#  -->  protected
-- \`<  -->  --`
-- \`<  -->  ..`
-- \<<interface>>  -->  interface
-- abstract  -->  abstract class
-
 |**UML Symbols Cheat Sheet:**| **Symbol	Meaning** |
 | :---:                   |    :----:       | 
 | \+                      |  public         |

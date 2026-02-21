@@ -1,8 +1,18 @@
-interface Operation {
-    double apply(double a, double b);
-}
+/* This Java class that demonstrates all important enum features step by step with simple examples. 
+    1. Enum constructor is always private
+    2. Enum implicitly extends java.lang.Enum
+    3. Enum cannot extend another class
+    4. Enum can implement interfaces
+    5. Enum constants are public static final
+    6. Enum is type-safe (better than constants)
+*/
 
 public class EnumDemo {
+    
+    // Interface inside same class
+    interface Operation {
+        double apply(double a, double b);
+    }
 
     public static void main(String[] args) {
 

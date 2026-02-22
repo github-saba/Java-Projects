@@ -1,4 +1,4 @@
-/*  This Java class for Insert data into the Postgresql database via JDBC (Try-With-Resources).
+/* JDBC example for PostgreSQL / inserting data (Using Try-With-Resources)  
   Why executeUpdate() instead of execute()? 
   1 .executeUpdate() → used for: INSERT / UPDATE / DELETE
   2. Returns number of affected rows.

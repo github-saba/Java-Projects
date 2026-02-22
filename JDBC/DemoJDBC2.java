@@ -1,5 +1,7 @@
-/* JDBC example for PostgreSQL (Using Try-With-Resources) 
-    If you're using Java 7+, this is much cleaner and safer */
+/* JDBC example for PostgreSQL (Using Try-With-Resources). 
+    When using Try-With-Resources, AutoCloseable working, so we do not need to manually close the resources.
+    If you're using Java 7+, this is much cleaner and safer. Here used PreparedStatement interface. 
+    Using PreparedStatement prenevts SQL imjection, imporve performance and coding simplicity */
 
 import java.sql.*;
 

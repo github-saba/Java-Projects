@@ -1,4 +1,4 @@
-/* JDBC example for PostgreSQL (With Exception Handling & Closing Resources) */
+/* JDBC example for PostgreSQL (With Exception Handling & Closing Resources). Here used Statement interface. Using Statement is risky due to SQL imjection */
 
 import java.sql.*;
 

@@ -1,4 +1,5 @@
-/*  Using Try-With-Resources */
+/* JDBC example for PostgreSQL (Using Try-With-Resources) 
+    If you're using Java 7+, this is much cleaner and safer */
 
 import java.sql.*;
 

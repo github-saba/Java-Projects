@@ -6,7 +6,7 @@ public class DemoJDBC1 {
 
     public static void main(String[] args) {
 
-        String url = "jdbc:postgresql://localhost:5432/demo";
+        String url = "jdbc:postgresql://localhost:5432/{your database}";
         String uname = "Your Username";
         String pass = "Your password";
         String sql = "select * from student";

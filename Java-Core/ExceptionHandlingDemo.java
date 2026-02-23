@@ -111,7 +111,7 @@ public class ExceptionHandlingDemo {
         System.out.println("Valid age");
     }
 
-    // 7. Try-with-resources (Java 7+)
+    // 7. Try-with-resources (Java 7+), Benefit: No need to close the resources manually. AutoClosable will do as so.
     public static void tryWithResourcesExample() {
         try (BufferedReader br = new BufferedReader(new FileReader("test.txt"))) {
             System.out.println("Reading file...");

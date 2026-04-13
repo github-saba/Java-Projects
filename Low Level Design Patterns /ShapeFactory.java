@@ -1,6 +1,6 @@
 /* Factory Method Pattern (creational) - The Vibe: "I’ll decide what to give you based on what you ask for."
 Instead of the client calling new on a specific class, they call a "factory" that decides which object to instantiate.
-Defines an interface for creating objects but lets subclasses decide which class to instantiate, promoting loose coupling. */ 
+Defines an interface for creating objects but lets subclasses decide which class to instantiate, promoting loose coupling. */
 
 public class ShapeFactory {
     public static Shape getShape(String type) {
